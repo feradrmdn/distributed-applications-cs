@@ -23,4 +23,4 @@ Distributed programming is characterized by several distinct physical components
 ### Weeks Schedule
 
 * Second week - [exercises](https://github.com/hasangyulyustan/distributed-applications-cs/tree/master/exercises/week-2)
-* Second week - [exercises](https://github.com/hasangyulyustan/distributed-applications-cs/tree/master/exercises/week-3)
+* Third week - [exercises](https://github.com/hasangyulyustan/distributed-applications-cs/tree/master/exercises/week-3)
