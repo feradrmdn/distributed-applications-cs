@@ -24,3 +24,4 @@ Distributed programming is characterized by several distinct physical components
 
 * Second week - [exercises](https://github.com/hasangyulyustan/distributed-applications-cs/tree/master/exercises/week-2)
 * Third week - [exercises](https://github.com/hasangyulyustan/distributed-applications-cs/tree/master/exercises/week-3)
+* Third week in asp net mvc (not asp net core) - [exercises](https://github.com/hasangyulyustan/distributed-applications-cs/tree/master/exercises/week-3-asp.net-mvc) - look at the project. We will continue with asp net mvc the next week.
